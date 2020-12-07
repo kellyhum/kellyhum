@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 (she/her)
 
-i'm a student with an interest in STEM and design, hoping to make tech accessible by everyone.
+i'm a student with an interest in STEM and design, hoping to make the world a greener place.
 
-when i'm not cramming french vocab, you can find me binge reading books 📚, playing some badminton 🏸 or chatting with friends 😁!
+when i'm not cramming french vocab, you can find me binge reading books 📚, playing some badminton 🏸 or surfing the Web!
