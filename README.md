@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 i'm a student with an interest in STEM and design, hoping to make the world a greener place.
 
-when i'm not figuring out a new programming concept, you can find me binge reading books 📚, playing some badminton 🏸 or surfing the Web!
+when i'm not figuring out a new programming concept, you can find me reading books 📚, playing some badminton 🏸 or surfing the Web!
