@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 (she/her)
 
-i'm a student with an interest in STEM and design.
+i'm a high school student with an interest in STEM and design.
 
 when i'm not figuring out a new programming concept, you can find me reading books 📚, playing some badminton 🏸 or surfing the Web 💻!
