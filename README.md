@@ -1,22 +1,9 @@
-### hey there, i'm kelly! 👋
-
-<!--
-**kellyhum/kellyhum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### hi, i'm kelly! 👋
 
 (she/her)
 
-i'm a high school student with an interest in STEM and design.
+I'm a high school student with an interest in STEM and design.
 
-when i'm not figuring out a new programming concept, you can find me reading books 📚, playing some badminton 🏸 or surfing the Web 💻!
+Currently developing my portfolio site, I'm hoping to improve my Javascript skills to be able to start learning React by September.  Also skilled with HTML & CSS, and am learning Python for use with ML/AI/data science as part of a summer program.
+
+When I'm not troubleshooting code, I can be found nose deep in a good book, testing out that new bubble tea place, or jamming to some songs on Spotify.
