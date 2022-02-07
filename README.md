@@ -2,8 +2,10 @@
 
 (she/her)
 
-I'm a high school student with an interest in STEM and design.
+Welcome to the literal front page of my Github profile!
 
-Currently developing my portfolio site, I'm in the process of learning React - building a few side projects in private repos!  Also skilled with HTML, CSS, and Python (data science/ML/AI).
+A student currently exploring cybersecurity and software development, I'm always looking for my next new challenge, whether that's a CTF challenge or a coding project.
 
-When I'm not troubleshooting code, I can be found nose deep in a good book, testing out that new bubble tea place, or jamming to some songs on Spotify.
+Right now, my favorite languages include Javascript and Python, although I can also do web (HTML, CSS) development.
+
+If you're interested in cybersecurity, health at the intersection of tech, or accessible technology, feel free to reach out to me!
