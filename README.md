@@ -2,7 +2,7 @@
 
 (she/her)
 
->cybersecurity, builds neat tools, occasionally writes things
+>clean tech, accessible products, and urban design
 
 --> [site](kellyhum.xyz) <--
 
