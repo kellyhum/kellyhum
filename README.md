@@ -1,7 +1,11 @@
 ### hi, i'm kelly! 👋
 currently:
-- going back to 0 and exploring coding projects that are fun/useful to me (read: not mandatory for school)
-- learning react + typescript => projects coming soon!
-- exploring biotech and software
+- messing around with software and cybersecurity - building projects, playing in ctfs, learning to love leetcode :)
+- curious about consumer-facing products, clean energy, and healthcare
+- reading the chip war and mentally mind-mapping the companies that power semiconductors
+- learning more about business as an enterprise architect intern for emerging tech (ai, ar/vr, and robotics) and cybersecurity!
+
+in the past:
+- interned as a frontend developer building with react/graphql/typescript
 
 cheers :)
